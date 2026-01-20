@@ -1,0 +1,83 @@
+
+[
+  {
+    "id": 1,
+    "name": "Minimalist Desk Lamp",
+    "price": 450000,
+    "description": "Adjustable LED lamp with touch control and sleek aluminum finish.",
+    "category": "Office",
+    "image": "https://picsum.photos/seed/lamp1/400/300"
+  },
+  {
+    "id": 2,
+    "name": "Ergonomic Office Chair",
+    "price": 2800000,
+    "description": "Breathable mesh back with lumbar support and synchronized tilt mechanism.",
+    "category": "Furniture",
+    "image": "https://picsum.photos/seed/chair1/400/300"
+  },
+  {
+    "id": 3,
+    "name": "Mechanical Keyboard Pro",
+    "price": 1200000,
+    "description": "Hot-swappable switches with RGB backlighting and PBT keycaps.",
+    "category": "Electronics",
+    "image": "https://picsum.photos/seed/kb1/400/300"
+  },
+  {
+    "id": 4,
+    "name": "Noise Cancelling Headphones",
+    "price": 3500000,
+    "description": "Industry-leading noise cancellation with 30-hour battery life.",
+    "category": "Electronics",
+    "image": "https://picsum.photos/seed/audio1/400/300"
+  },
+  {
+    "id": 5,
+    "name": "Leather Travel Backpack",
+    "price": 850000,
+    "description": "Water-resistant premium leather with a dedicated 15-inch laptop sleeve.",
+    "category": "Fashion",
+    "image": "https://picsum.photos/seed/bag1/400/300"
+  },
+  {
+    "id": 6,
+    "name": "Wireless Charging Pad",
+    "price": 320000,
+    "description": "Fast 15W wireless charging compatible with all Qi-enabled devices.",
+    "category": "Electronics",
+    "image": "https://picsum.photos/seed/charge1/400/300"
+  },
+  {
+    "id": 7,
+    "name": "Double Walled Glass Mug",
+    "price": 125000,
+    "description": "Insulated glass that keeps your coffee hot and your hands cool.",
+    "category": "Home",
+    "image": "https://picsum.photos/seed/mug1/400/300"
+  },
+  {
+    "id": 8,
+    "name": "Smart Fitness Watch",
+    "price": 1500000,
+    "description": "Heart rate monitoring, GPS, and waterproof up to 50 meters.",
+    "category": "Electronics",
+    "image": "https://picsum.photos/seed/watch1/400/300"
+  },
+  {
+    "id": 9,
+    "name": "Bamboo Laptop Stand",
+    "price": 275000,
+    "description": "Sustainable bamboo stand designed for better ergonomics and airflow.",
+    "category": "Office",
+    "image": "https://picsum.photos/seed/stand1/400/300"
+  },
+  {
+    "id": 10,
+    "name": "Scented Soy Candle",
+    "price": 85000,
+    "description": "Hand-poured lavender and eucalyptus candle for deep relaxation.",
+    "category": "Home",
+    "image": "https://picsum.photos/seed/candle1/400/300"
+  }
+]
